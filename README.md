@@ -6,5 +6,7 @@ The core of this recommendation system lies in the utilization of collaborative 
  
  Results :
  Provides personalized song recommendations to users based on their listening history.
+ 
  Given an artist's name as input, the system will generate 10 song recommendations.
- These recommendations include track URI, title, artist, and album name# Song-Recommendation-System-based-on-Spotify-Dataset
+ 
+ These recommendations include track URI, title, artist, and album name
